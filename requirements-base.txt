@@ -417,7 +417,7 @@ wasabi==0.10.0
     #   spacy
     #   spacy-loggers
     #   thinc
-werkzeug==2.1.2
+werkzeug==3.0.1
     # via schemathesis
 yarl==1.7.2
     # via
