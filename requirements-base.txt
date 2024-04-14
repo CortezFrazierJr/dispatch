@@ -142,7 +142,7 @@ hypothesis-graphql==0.9.0
     # via schemathesis
 hypothesis-jsonschema==0.22.0
     # via schemathesis
-idna==3.3
+idna==3.7
     # via
     #   anyio
     #   email-validator
