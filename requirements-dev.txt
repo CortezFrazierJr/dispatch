@@ -102,3 +102,4 @@ vulture==2.6
     # via -r requirements-dev.in
 wcwidth==0.2.5
     # via prompt-toolkit
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
