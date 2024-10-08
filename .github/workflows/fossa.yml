@@ -9,5 +9,5 @@ jobs:
       - uses: actions/checkout@v3
       - uses: fossas/fossa-action@main # Use a specific version if locking is preferred
         with:
-          api-key: ${{secrets.fossaApiKey}}
+          api-key: "479a87eb379197d86b1b81b4fd439c25"
           project: some-project-name
