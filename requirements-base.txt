@@ -369,7 +369,7 @@ srsly==2.4.4
     # via
     #   spacy
     #   thinc
-starlette==0.19.1
+starlette==0.25.0
     # via
     #   fastapi
     #   schemathesis
@@ -417,7 +417,7 @@ wasabi==0.10.0
     #   spacy
     #   spacy-loggers
     #   thinc
-werkzeug==2.1.2
+werkzeug==2.2.3
     # via schemathesis
 yarl==1.7.2
     # via
