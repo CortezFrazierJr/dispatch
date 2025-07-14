@@ -227,7 +227,7 @@ preshed==3.0.6
     # via
     #   spacy
     #   thinc
-protobuf==3.20.0
+protobuf==4.25.8
     # via
     #   -r requirements-base.in
     #   google-api-core
@@ -401,7 +401,7 @@ typing-extensions==4.3.0
     #   schemathesis
 uritemplate==4.1.1
     # via google-api-python-client
-urllib3==1.26.11
+urllib3==2.5.0
     # via
     #   pdpyras
     #   requests
