@@ -369,7 +369,7 @@ srsly==2.4.4
     # via
     #   spacy
     #   thinc
-starlette==0.19.1
+starlette==0.49.1
     # via
     #   fastapi
     #   schemathesis
