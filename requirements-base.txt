@@ -6,7 +6,7 @@
 #
 aiofiles==22.1.0
     # via -r requirements-base.in
-aiohttp==3.8.3
+aiohttp==3.13.3
     # via -r requirements-base.in
 aiosignal==1.2.0
     # via aiohttp
@@ -401,7 +401,7 @@ typing-extensions==4.3.0
     #   schemathesis
 uritemplate==4.1.1
     # via google-api-python-client
-urllib3==1.26.11
+urllib3==2.6.3
     # via
     #   pdpyras
     #   requests
@@ -417,7 +417,7 @@ wasabi==0.10.0
     #   spacy
     #   spacy-loggers
     #   thinc
-werkzeug==2.1.2
+werkzeug==3.1.5
     # via schemathesis
 yarl==1.7.2
     # via
